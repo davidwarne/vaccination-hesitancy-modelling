@@ -42,6 +42,7 @@ The following files are provided:
 2. To reproduce figures run `>> fig2`, `>> fig3`, `>> fig5`, `>> fig6`, and `>> figS1toS8`
 3. To repeat the analysis, open `run_smc_vax_scenarios.m` and edit the entries in the parameter vector `theta` as appropriate for the the desired scenario. Then run `>> run_smc_vax_scenarios`
 
+Note: To use scripts related to structural identifiablity analysis (under `GenSSI/COVID19_vax/`) the `GenSSI` system must be installed. The `GenSSI` system along with tutorials for using `GenSSI`, are available from (https://github.com/genssi-developer/GenSSI).
 ## Acknowledgement
 The development of this model and software was supported by School of Mathematical Sciences and the Centre for Data Science at QUT.
 
