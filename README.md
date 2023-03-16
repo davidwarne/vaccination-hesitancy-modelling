@@ -3,7 +3,7 @@ Modelling and Bayesian Analysis of stochastic epidemiological model including va
 
 This code is provided as supplementary material to accompany the paper DJ Warne, A Varghese, AP Browning, MM Krell, C Drovandi, W Hu, A Mira, K Mengersen, AL Jenner (2022). ``Bayesian uncertainty quantification to identify population level vaccine hesitancy behaviours''. medRxiv.org (https://doi.org/10.1101/2022.12.13.22283297 )
 
-The work also builds upon methods presented in the paper DJ Warne, A Ebert, D Drovandi, W Hu, A Mira, K Mengersen (2020) ``Hindsight is 2020 vision: a characterisation of the global response to the COVID-19 pandemic'' BMC Public Health 20:1868 (https://doi.org/10.1186/s12889-020-09972-z)
+The work also builds upon methods presented in the paper DJ Warne, A Ebert, C Drovandi, W Hu, A Mira, K Mengersen (2020) ``Hindsight is 2020 vision: a characterisation of the global response to the COVID-19 pandemic'' BMC Public Health 20:1868 (https://doi.org/10.1186/s12889-020-09972-z)
 
 ## Developers
 
